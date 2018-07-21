@@ -1,12 +1,12 @@
 # 100 Days Of ML Code - Example Log
 
-### Day 0: February 29, 2016
+### Day 0: July 21,2018
 
 **Today's Progress**:Started reading keras documentation found link on keras resource on github
 
 **Thoughts:** I think keras is easier to understand and use as compared to pytorch or tensorflow
 
-**Link to work:** [Keras resources](https://github.com/anandpawara/keras-resources)
+**Link to work:** [Keras resources github](https://github.com/anandpawara/keras-resources)
 
 ### Day 1: February 30, 2016 (Example 2) 
 
