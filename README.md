@@ -1,6 +1,6 @@
 # 100 Days Of ML Code - Example Log
 
-### Day 0: February 29, 2016
+### Day 0: July 21,2018
 
 **Today's Progress**:Started reading keras documentation found link on keras resource on github
 
