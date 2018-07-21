@@ -6,8 +6,8 @@
 
 **Thoughts:** I think keras is easier to understand and use as compared to pytorch or tensorflow
 
-**Link to work:** [Keras resources github](https://github.com/anandpawara/keras-resources)
-added code from [here](https://keras.io/models/sequential/)
+**Link to work:** [Keras resources github](https://github.com/anandpawara/keras-resources)<br>
+learned about Keras Sequential Model  [here](https://keras.io/models/sequential/)<br>
 
 ### Day 1: February 30, 2016 (Example 2) 
 
