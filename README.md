@@ -29,4 +29,5 @@ learned about Keras Sequential Model  [here](https://keras.io/models/sequential/
 
 ### Day 3: July 23,2018
 **Today's Progress**: building CNN from scrath on DogsvsCats on kaggle dataset <br>
-Done with data augmentation and visualizatin[here](https://github.com/anandpawara/100_Days_ML_Challenge/tree/master/Deep_learning_with_Python_Francis_Challot/Deep_learning_for_computer_vision)<br>
+Done with data augmentation and visualization [here]
+(https://github.com/anandpawara/100_Days_ML_Challenge/tree/master/Deep_learning_with_Python_Francis_Challot/Deep_learning_for_computer_vision)<br>
