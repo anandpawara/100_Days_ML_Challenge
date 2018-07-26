@@ -31,3 +31,24 @@ learned about Keras Sequential Model  [here](https://keras.io/models/sequential/
 **Today's Progress**: building CNN from scrath on DogsvsCats on kaggle dataset <br>
 Done with data augmentation and visualization [here]
 (https://github.com/anandpawara/100_Days_ML_Challenge/tree/master/Deep_learning_with_Python_Francis_Challot/Deep_learning_for_computer_vision)<br>
+
+### Day 4: July 24,2018
+**Today's Progress**: Deployed my first model image classification model on google colab<br>
+Finished with examples in keras Sequential from [here](https://keras.io/models/sequential/)<br>
+
+**Thoughts**:Deploying model on google colab is very trouble some as it is very download and load data onto model but somehow managed to get it done right
+
+### Day 5: July 26,2018
+**Today's Progress**: Building first CNN model from scrath <br>
+Finished with examples in keras Sequential from [here](https://keras.io/models/sequential/)<br>
+
+**Thoughts**:Building models in keras very compared to pytorch or tensorflow and learnt about data processing and data augmentation and fine tuning and how to overcome overfitting
+
+### Day 6: July 27,2018
+**Today's Progress**: Trying to Neural style transfer <br>
+Awesome video implementing Neural style transfer from fast.ai[here](https://keras.io/models/sequential/)<br>
+
+**Thoughts**:Ran into some error while running fast.ai module so have to write my own code on neural style transfer<br>
+
+
+
